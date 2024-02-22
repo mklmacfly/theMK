@@ -8,3 +8,5 @@ You can find a playlist of videos about git by [link](https://www.youtube.com/wa
 *HTML
 ﻿﻿*CSS
 ﻿﻿*JavaScript
+ * HTML/CSS (Inline Styles):
+<p style="color: blue; font-size: 20px;">Styled paragraph</p>
